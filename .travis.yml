@@ -1,2 +1,3 @@
 language: csharp
 solution: Azur-Lane-Scripts-Autopatcher.sln
+cache: mono
